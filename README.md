@@ -27,6 +27,11 @@
     <span>Kotlin</span>
   </li>
 </ul>
+<p align="left">
+<a href="https://github.com/wayanberdyanto">
+  <img height="800em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wayanberdyanto&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p
 
 <h2>Framework 🚀</h2>
 <ul>
