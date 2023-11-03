@@ -29,7 +29,7 @@
 </ul>
 <p align="left">
 <a href="https://github.com/wayanberdyanto">
-  <img height="100em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wayanberdyanto&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wayanberdyanto&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p
 
