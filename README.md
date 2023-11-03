@@ -16,8 +16,11 @@
 </ul>
 
 <h3>My Programming Languages</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="example" width="25%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="example" width="25%">
-<img src="https://www.php.net/images/logos/new-php-logo.png" alt="example" width="25%">
-<img src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png" alt="example" width="25%">
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="example" width="5%" height="50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="example" width="5%" height="50px">
+  <img src="https://www.php.net/images/logos/new-php-logo.png" alt="example" width="5%" height="50px">
+  <img src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png" alt="example" width="5%" height="50px">
+</div>
+
 
