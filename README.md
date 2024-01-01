@@ -17,7 +17,7 @@
 </a>
 </p
 
-<h2>Framework 🚀</h2>
+## Framework 🚀
 <ul>
   <li>
     <span>Laravel</span>
@@ -29,6 +29,9 @@
     <span>Tailwind</span>
   </li>
 </ul>
+## Ability
+* Web Dev
+* Mobile Dev
 
 
 
