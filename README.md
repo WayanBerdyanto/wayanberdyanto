@@ -1,4 +1,4 @@
-### Hi My name is Wayan berdyanto 👋
+## Hi My name is Wayan berdyanto 👋
 <h2>My Programming Languages 🚀</h2>
 <ul>
   <li>
@@ -18,17 +18,10 @@
 </p
 
 ## Framework 🚀
-<ul>
-  <li>
-    <span>Laravel</span>
-  </li>
-  <li>
-    <span>Bootstrap</span>
-  </li>
-  <li>
-    <span>Tailwind</span>
-  </li>
-</ul>
+* Laravel
+* Bootstrap
+* Tailwind
+* Going To React JS
 
 ## Ability
 * Web Dev
