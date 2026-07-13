@@ -1,6 +1,6 @@
 # 👨‍💻 Wayan Berdyanto
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-wayanberdyanto.website-blue?style=for-the-badge&logo=react)](https://wayanberdyanto.website/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-wayanberdyanto.gobdev.com-blue?style=for-the-badge&logo=react)](https://wayanberdyanto.website/)
 [![GitHub](https://img.shields.io/badge/GitHub-WayanBerdyanto-181717?style=for-the-badge&logo=github)](https://github.com/WayanBerdyanto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wayan--berdyanto-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/wayan-berdyanto)
 
