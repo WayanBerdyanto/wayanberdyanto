@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm **Wayan Berdyanto**, a passionate Backend & Fullstack Developer focused on creating scalable APIs and innovative web applications. I love exploring new software architecture patterns and building performant solutions.
+Hello! I'm **Wayan Berdyanto**, as a Backend Developer with experience building various web-based systems, including payment gateway integration, REST APIs, API documentation, and Learning Management Systems (LMS). I am experienced in using Go (Golang) and Laravel to build scalable and maintainable applications.
 
 ---
 
@@ -14,10 +14,18 @@ Hello! I'm **Wayan Berdyanto**, a passionate Backend & Fullstack Developer focus
 
 ### 💻 Programming Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎨 Frontend & Frameworks
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend Development
 ![Go](https://img.shields.io/badge/Go--Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -26,9 +34,9 @@ Hello! I'm **Wayan Berdyanto**, a passionate Backend & Fullstack Developer focus
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-0052CC?style=for-the-badge&logo=go&logoColor=white)
 
-### 🎨 Frontend Development
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin_Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🗄️ Databases & Caching
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
